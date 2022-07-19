@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+   
+ }
+h1{
+    background-color: aqua;
+}
+#birthday{
+    padding: 0.7rem 1rem;
+  border-radius: 0.5rem;
+}
+ #check{
+    border: none;
+    color: black;
+    padding: 0.7rem 0.5rem;
+    border-radius: 0.5rem;
+    font-size: large;
+    cursor: pointer;
+    background-color: aqua;
+    margin: auto;
+ }
